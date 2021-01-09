@@ -1,2 +1,3 @@
-# SQL-Exercises
-Some of my SQL code
+# SQL-Exercises :zap:
+Some of my SQL code.
+
